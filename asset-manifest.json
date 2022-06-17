@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/feriasale/static/css/main.1a3c6682.css",
-    "main.js": "/feriasale/static/js/main.38f5927a.js",
+    "main.js": "/feriasale/static/js/main.768752a2.js",
     "static/media/quintaferia.mp4": "/feriasale/static/media/quintaferia.52b05890961243d83a10.mp4",
     "static/media/3_2 feria.png": "/feriasale/static/media/3_2 feria.998b3fec40f1b1b34329.png",
     "static/media/1feria.png": "/feriasale/static/media/1feria.5d06baf510e5dc029d55.png",
@@ -42,10 +42,10 @@
     "static/media/FeriaProvicional.png": "/feriasale/static/media/FeriaProvicional.d96fc267040eacc8dd54.png",
     "index.html": "/feriasale/index.html",
     "main.1a3c6682.css.map": "/feriasale/static/css/main.1a3c6682.css.map",
-    "main.38f5927a.js.map": "/feriasale/static/js/main.38f5927a.js.map"
+    "main.768752a2.js.map": "/feriasale/static/js/main.768752a2.js.map"
   },
   "entrypoints": [
     "static/css/main.1a3c6682.css",
-    "static/js/main.38f5927a.js"
+    "static/js/main.768752a2.js"
   ]
 }
