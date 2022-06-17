@@ -13,7 +13,7 @@ function Tres (){
         <>
 
         <div class="tituloFeria">
-        <Link to='/ferias_steam' id="back"><i class="fa-solid fa-arrow-left"></i></Link>
+        <Link to='/feriasale' id="back"><i class="fa-solid fa-arrow-left"></i></Link>
             <h1>Máquina de Goldberg</h1>
             <br/>
             <h2><img src={icono} alt="icono" />2019</h2>

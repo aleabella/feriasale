@@ -14,14 +14,11 @@ import { Link } from "react-router-dom"
 function Uno (){
     return (
         <>
-            <div class="slideFeria">
-     
-     <h1>Primera Feria STEAM</h1>
- </div>
+            
  <div class="tituloFeria">
  <img class="zoom" alt="Foto1_9" src={Foto1_9} className="headerindex"/>
-     <h1>Primera Feria STEAM</h1>
-     <Link to='/ferias-steam' id="back"><i class="fa-solid fa-arrow-left"></i></Link>
+
+     <Link to='/feriasale' id="back"><i class="fa-solid fa-arrow-left"></i></Link>
      
      <h1>Nuestros Proyectos</h1>
      <br/>

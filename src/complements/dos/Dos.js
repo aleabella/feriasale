@@ -19,7 +19,7 @@ function Dos(){
     </video>
       </div>
     <div class="tituloFeria">
-    <Link to='/ferias-steam' id="back"><i class="fa-solid fa-arrow-left"></i></Link>
+    <Link to='/feriasale' id="back"><i class="fa-solid fa-arrow-left"></i></Link>
         <h1>Energias Renovables</h1>
         <br/>
         <h2><img src={icono} alt="icono" />2018</h2>
